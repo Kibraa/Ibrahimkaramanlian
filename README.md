@@ -35,8 +35,9 @@
 ### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" width="35" /> GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Kibraa&show_icons=true&theme=radical&hide_border=true" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kibraa&layout=compact&theme=radical&hide_border=true" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Kibraa&show_icons=true&theme=radical&hide_border=true" height="170" alt="GitHub Stats" />
+  &nbsp;&nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kibraa&layout=compact&theme=radical&hide_border=true" height="170" alt="Top Langs" />
 </p>
 
 ---
@@ -47,4 +48,8 @@
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Heart%20with%20Arrow.png" width="60" />
+</p>
+
+<p align="center">
+  <strong>Code is my love language</strong>
 </p>
