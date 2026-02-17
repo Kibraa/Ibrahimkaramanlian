@@ -4,7 +4,7 @@
 
 <div align="center">
   <h3>👨‍💻 Mastère Dev. Manager Full Stack</h3>
-  <p>Passionné par le code, l'automobile et la création d'applications performantes.</p>
+  <p>Passionné par le code et la création d'applications performantes.</p>
   
   <a href="https://ibrahimkaramanlian.fr">
     <img src="https://img.shields.io/badge/Portfolio-7b2cbf?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
