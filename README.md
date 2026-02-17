@@ -44,11 +44,11 @@
 </h3>
 
 <p align="center">
-  <img src="https://github-readme-stats-b4d.vercel.app/api?username=Kibraa&show_icons=true&theme=radical&hide_border=true" height="170" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Kibraa&show_icons=true&theme=radical&hide_border=true" height="170" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats-b4d.vercel.app/api/top-langs/?username=Kibraa&layout=compact&theme=radical&hide_border=true" height="170" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kibraa&layout=compact&theme=radical&hide_border=true" height="170" alt="Top Languages" />
 </p>
 
 <br>
