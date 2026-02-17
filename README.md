@@ -14,8 +14,6 @@
 
 ---
 
----
-
 ### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" width="35" /> Tech Stack
 
 <p align="center">
@@ -49,8 +47,4 @@
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Heart%20with%20Arrow.png" width="60" />
-</p>
-
-<p align="center">
-  <strong>Code is my love language</strong>
 </p>
