@@ -7,7 +7,7 @@
   <p><strong>À la recherche d'une alternance de 24 mois (Septembre 2026)</strong></p>
   
   <p>
-    Anciennement développeur web (Front/Back), je me spécialise aujourd'hui dans l'ingénierie des données et l'intelligence artificielle. 
+    Développeur web (Front/Back), je me spécialise aujourd'hui dans la suite ce de bachelor dans l'ingénierie des données et l'intelligence artificielle. 
     Mon bagage en développement logiciel me permet de concevoir des pipelines de données robustes tout en gardant une vision claire sur l'intégration finale et l'architecture produit.
   </p>
   <br>
@@ -49,14 +49,14 @@
     <img src="https://img.shields.io/badge/Semantic_Brain-Moteur_RAG_&_IA-2563eb?style=flat-square&logo=python" />
   </a>
   <br>
-  <i>API Claude 3.5, Pinecone, FastAPI, Python</i>
+  <i>API, Pinecone, FastAPI, Python</i>
   <br><br>
 
   <a href="#">
     <img src="https://img.shields.io/badge/Cloudify_Analytics-Cloud_Monitoring-2563eb?style=flat-square&logo=react" />
   </a>
   <br>
-  <i>Next.js, Python, Plotly, Docker, Supabase</i>
+  <i>Next.js, Python, Plotly, Docker</i>
 </div>
 
 <br />
