@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-  <h3>Étudiant Ingénieur — Data Engineering & IA</h3>
+  <h3>Étudiant Data Science — Data Engineering & IA</h3>
   <p><strong>À la recherche d'une alternance de 24 mois (Septembre 2026)</strong></p>
   
   <p>
