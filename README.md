@@ -7,8 +7,8 @@
   <p><strong>À la recherche d'une alternance de 24 mois (Septembre 2026)</strong></p>
   
   <p>
-    Développeur web (Front/Back), je me spécialise aujourd'hui dans la suite ce de bachelor dans l'ingénierie des données et l'intelligence artificielle. 
-    Mon bagage en développement logiciel me permet de concevoir des pipelines de données robustes tout en gardant une vision claire sur l'intégration finale et l'architecture produit.
+    Développeur web (Front-end / Back-end), je poursuis actuellement mon bachelor avec une spécialisation en ingénierie des données et en intelligence artificielle.
+En tant qu’étudiant en développement logiciel, j’apprends à concevoir des pipelines de données robustes tout en développant une vision claire de l’architecture globale d’un produit et de son intégration finale.
   </p>
   <br>
 
