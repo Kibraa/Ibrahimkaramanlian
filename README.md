@@ -62,9 +62,8 @@
 <br />
 
 <div align="center">
-  <h2>GitHub Stats</h2>
-  <img src="https://github-readme-stats.vercel.app/api?username=Kibraa&show_icons=true&theme=radical&hide_border=true&bg_color=1a1b27&title_color=2563eb&icon_color=2563eb&v=1" height="170" alt="Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kibraa&layout=compact&theme=radical&hide_border=true&bg_color=1a1b27&title_color=2563eb&v=1" height="170" alt="Languages" />
+  <h2>Activité GitHub</h2>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kibraa&theme=dark&hide_border=true&background=1a1b27&ring=2563eb&fire=2563eb&currStreakNum=ffffff&currStreakLabel=2563eb&sideNums=ffffff&sideLabels=ffffff&dates=8c8c8c" alt="GitHub Streak" />
 </div>
 
 <br />
